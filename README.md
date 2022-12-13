@@ -1,1 +1,3 @@
-<img src="https://github-readme-stats.vercel.app/api?username=sffxzzp&show_icons=true&count_private=true&title_color=fff&text_color=fff&icon_color=fff&bg_color=30,77a1d3,79cbca" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sffxzzp&layout=compact&title_color=fff&text_color=fff&icon_color=fff&bg_color=30,79cbca,e684ae&hide=html,lua&langs_count=10" />
+![](https://github-readme-stats.vercel.app/api?username=sffxzzp&show_icons=true&count_private=true) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sffxzzp&layout=compact&langs_count=8)
+
+![](https://streak-stats.demolab.com?user=sffxzzp&border_radius=5&date_format=%5BY.%5Dn.j)
